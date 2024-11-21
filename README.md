@@ -1,10 +1,11 @@
 ## Hi there 👋
 
 ![Screenshot](./readme-screenshot.jpg)
+<p align="center">
+    My name is Eduardo Alvarado,
 
-My name is Eduardo Alvarado,
-
-I am a Software Engineer with a passion for building web systems that improve people's lives. You can know more about me at [eduardoalvara2.github.io](https://eduardoalvara2.github.io/) 🚀
+    I am a Software Engineer with a passion for building web systems that improve people's lives. You can know more about me at [eduardoalvara2.github.io](https://eduardoalvara2.github.io/) 🚀
+</p>
 <!--
 **eduardoalvara2/eduardoalvara2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
