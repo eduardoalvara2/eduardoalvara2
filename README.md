@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Screenshot](./readme-screenshot.jpg)
+
 My name is Eduardo Alvarado,
 
 I am a Software Engineer with a passion for building web systems that improve people's lives. You can know more about me at [eduardoalvara2.github.io](https://eduardoalvara2.github.io/) 🚀
